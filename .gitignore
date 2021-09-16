@@ -11,3 +11,6 @@ test/tmp
 /examples/src
 /examples/libs/
 /coverage
+*.tgz
+*.log
+
